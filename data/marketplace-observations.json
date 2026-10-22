@@ -1,0 +1,294 @@
+{
+  "retrievedAt": "2026-10-22T21:02:07.219175+00:00",
+  "sourceUrl": "https://market.yandex.ru/business--lemash/216587184",
+  "status": "listing_only",
+  "offersObserved": 9,
+  "exportCatalogCount": 19,
+  "catalogSkusNotObserved": [
+    "2325SBRH20625",
+    "23CHG300826",
+    "23NM080323",
+    "25CHG300826",
+    "25L5G100524",
+    "25NM080323",
+    "27L5G100524",
+    "27SNM080323",
+    "29BNM120523",
+    "29CHG300826"
+  ],
+  "productDetailsStatus": "blocked_by_captcha",
+  "ozonStatus": "redirect_loop_in_http_client",
+  "note": "Public marketplace observations are region/time/payment dependent, not direct shop prices or synchronized inventory. Existing XLSX catalog prices remain unchanged. No claim of complete marketplace export.",
+  "offers": [
+    {
+      "shopSku": "29SNM080323",
+      "marketSku": "5198048611",
+      "modelId": "4867178483",
+      "title": "Носки , комплект",
+      "price": 1400,
+      "additionalPrices": [
+        {
+          "priceType": "yaBank",
+          "priceValue": "421"
+        },
+        {
+          "priceType": "withDiscount",
+          "priceValue": "539"
+        }
+      ],
+      "isAvailable": true,
+      "lastStock": {
+        "stockItemCount": 35
+      },
+      "rating": {
+        "rating": "4.8",
+        "purchaseCount": "2040",
+        "gradesCount": "520",
+        "ratingType": "product"
+      },
+      "businessId": "216587184",
+      "shopId": "216587183",
+      "url": "https://market.yandex.ru/card/noski-meditsinskiye-zhenskiye-s-oslablennoy-rezinkoy-krapiva-i-len/5198048611"
+    },
+    {
+      "shopSku": "2729SBRH20625",
+      "marketSku": "4867233620",
+      "modelId": "4867178483",
+      "title": "Носки  без резинки, комплект",
+      "price": 1400,
+      "additionalPrices": [
+        {
+          "priceType": "yaBank",
+          "priceValue": "496"
+        },
+        {
+          "priceType": "withDiscount",
+          "priceValue": "636"
+        }
+      ],
+      "isAvailable": true,
+      "lastStock": {
+        "stockItemCount": 81
+      },
+      "rating": {
+        "rating": "4.8",
+        "purchaseCount": "2040",
+        "gradesCount": "520",
+        "ratingType": "product"
+      },
+      "businessId": "216587184",
+      "shopId": "216587183",
+      "url": "https://market.yandex.ru/card/noski-meditsinskiye-zhenskiye-bez-rezinki-iz-khlopka/4867233620"
+    },
+    {
+      "shopSku": "27CHG300826",
+      "marketSku": "6225227876",
+      "modelId": "4867178483",
+      "title": "Носки , комплект",
+      "price": 1800,
+      "additionalPrices": [
+        {
+          "priceType": "yaBank",
+          "priceValue": "431"
+        },
+        {
+          "priceType": "withDiscount",
+          "priceValue": "553"
+        }
+      ],
+      "isAvailable": true,
+      "lastStock": {
+        "stockItemCount": 21
+      },
+      "rating": {
+        "rating": "4.8",
+        "purchaseCount": "2040",
+        "gradesCount": "520",
+        "ratingType": "product"
+      },
+      "businessId": "216587184",
+      "shopId": "216587183",
+      "url": "https://market.yandex.ru/card/noski-meditsinskiye-zhenskiye-s-oslablennoy-rezinkoy-krapiva-i-len/6225227876"
+    },
+    {
+      "shopSku": "23L5G100524",
+      "marketSku": "5198047331",
+      "modelId": "4867178483",
+      "title": "Носки  с ослабленной резинкой, комплект",
+      "price": 1400,
+      "additionalPrices": [
+        {
+          "priceType": "yaBank",
+          "priceValue": "481"
+        },
+        {
+          "priceType": "withDiscount",
+          "priceValue": "617"
+        }
+      ],
+      "isAvailable": true,
+      "lastStock": {
+        "stockItemCount": 15
+      },
+      "rating": {
+        "rating": "4.8",
+        "purchaseCount": "2040",
+        "gradesCount": "520",
+        "ratingType": "product"
+      },
+      "businessId": "216587184",
+      "shopId": "216587183",
+      "url": "https://market.yandex.ru/card/noski-meditsinskiye-zhenskiye-s-oslablennoy-rezinkoy--krapiva-i-len/5198047331"
+    },
+    {
+      "shopSku": "29L5G100524",
+      "marketSku": "5198155617",
+      "modelId": "4867178483",
+      "title": "Носки  без резинки, комплект",
+      "price": 1400,
+      "additionalPrices": [
+        {
+          "priceType": "yaBank",
+          "priceValue": "481"
+        },
+        {
+          "priceType": "withDiscount",
+          "priceValue": "617"
+        }
+      ],
+      "isAvailable": true,
+      "lastStock": {
+        "stockItemCount": 30
+      },
+      "rating": {
+        "rating": "4.8",
+        "purchaseCount": "2040",
+        "gradesCount": "520",
+        "ratingType": "product"
+      },
+      "businessId": "216587184",
+      "shopId": "216587183",
+      "url": "https://market.yandex.ru/card/noski-meditsinskiye-zhenskiye-so-slaboy-rezinkoy-krapiva-i-len/5198155617"
+    },
+    {
+      "shopSku": "2325R5BRH1225",
+      "marketSku": "5197787644",
+      "modelId": "4867178483",
+      "title": "Носки  без резинки, комплект",
+      "price": 1400,
+      "additionalPrices": [
+        {
+          "priceType": "yaBank",
+          "priceValue": "482"
+        },
+        {
+          "priceType": "withDiscount",
+          "priceValue": "618"
+        }
+      ],
+      "isAvailable": true,
+      "lastStock": {
+        "stockItemCount": 34
+      },
+      "rating": {
+        "rating": "4.8",
+        "purchaseCount": "2040",
+        "gradesCount": "520",
+        "ratingType": "product"
+      },
+      "businessId": "216587184",
+      "shopId": "216587183",
+      "url": "https://market.yandex.ru/card/noski-meditsinskiye-zhenskiye-bez-rezinki-iz-khlopka/5197787644"
+    },
+    {
+      "shopSku": "23BNM120523",
+      "marketSku": "5198275229",
+      "modelId": "4867178483",
+      "title": "Носки  с ослабленной резинкой, комплект",
+      "price": 1400,
+      "additionalPrices": [
+        {
+          "priceType": "yaBank",
+          "priceValue": "481"
+        },
+        {
+          "priceType": "withDiscount",
+          "priceValue": "617"
+        }
+      ],
+      "isAvailable": true,
+      "lastStock": {
+        "stockItemCount": 10
+      },
+      "rating": {
+        "rating": "4.8",
+        "purchaseCount": "2040",
+        "gradesCount": "520",
+        "ratingType": "product"
+      },
+      "businessId": "216587184",
+      "shopId": "216587183",
+      "url": "https://market.yandex.ru/card/noski-meditsinskiye-zhenskiye-s-oslablennoy-rezinkoy-krapiva-i-len/5198275229"
+    },
+    {
+      "shopSku": "25BNM120523",
+      "marketSku": "5198284433",
+      "modelId": "4867178483",
+      "title": "Носки  с ослабленной резинкой, комплект",
+      "price": 1400,
+      "additionalPrices": [
+        {
+          "priceType": "yaBank",
+          "priceValue": "481"
+        },
+        {
+          "priceType": "withDiscount",
+          "priceValue": "617"
+        }
+      ],
+      "isAvailable": true,
+      "lastStock": {
+        "stockItemCount": 52
+      },
+      "rating": {
+        "rating": "4.8",
+        "purchaseCount": "2040",
+        "gradesCount": "520",
+        "ratingType": "product"
+      },
+      "businessId": "216587184",
+      "shopId": "216587183",
+      "url": "https://market.yandex.ru/card/noski-meditsinskiye-zhenskiye-s-oslablennoy-rezinkoy-krapiva-i-len/5198284433"
+    },
+    {
+      "shopSku": "27BNM120523",
+      "marketSku": "5198386935",
+      "modelId": "4867178483",
+      "title": "Носки  с ослабленной резинкой, комплект",
+      "price": 1400,
+      "additionalPrices": [
+        {
+          "priceType": "yaBank",
+          "priceValue": "481"
+        },
+        {
+          "priceType": "withDiscount",
+          "priceValue": "617"
+        }
+      ],
+      "isAvailable": true,
+      "lastStock": {
+        "stockItemCount": 78
+      },
+      "rating": {
+        "rating": "4.8",
+        "purchaseCount": "2040",
+        "gradesCount": "520",
+        "ratingType": "product"
+      },
+      "businessId": "216587184",
+      "shopId": "216587183",
+      "url": "https://market.yandex.ru/card/noski-meditsinskiye-zhenskiye-s-oslablennoy-rezinkoy-krapiva-i-len/5198386935"
+    }
+  ]
+}
